@@ -57,5 +57,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or support, please reach out via the Issues section of the repository or contact the maintainers directly.
 
 ![Octra Labs](https://img.shields.io/badge/Visit%20Releases%20Section-blue)
-
-Feel free to download the installation script and get started with Octra Labs today! For more information, check the [Releases section](https://github.com/ncfad/Octra-Labs-Client-Installation-bot/releases).
